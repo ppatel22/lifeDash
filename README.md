@@ -10,7 +10,6 @@ This project aims to create a personal productivity tracking system inspired by 
 - Local data storage for privacy
 - Customizable and visually appealing dashboard
 - Minimal resource usage
-- Activity logging and resource usage monitoring
 
 ## Project Structure
 
@@ -74,6 +73,9 @@ frontend/
 
 After completing these steps, your Productivity Dashboard should be up and running!
 
+Here is a screenshot of the current dashboard:
+
+![Dashboard Screenshot](./docs/dashboard.png)
 
 ## Future Features
 
